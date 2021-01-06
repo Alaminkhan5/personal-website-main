@@ -17,5 +17,5 @@ h1{color: dimgray; font-size: 100%;}
     .top-text{height: 100px;text-align: end;
 }
 #section-three{border:1px solid; color: rgb(234, 233, 241); background-color: rgb(231, 245, 222);}
-.one-third-width{width: 26%; float: left; margin-left: 2%;padding: 2%; border: solid rgb(255, 255, 255); border-radius: 10px; background-color: white;}
+.one-third-width{color: dimgray; width: 26%; float: left; margin-left: 2%;padding: 2%; border: solid rgb(255, 255, 255); border-radius: 10px; background-color: white;}
 .one-third-width img{width: 100%;}

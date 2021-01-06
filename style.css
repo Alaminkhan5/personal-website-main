@@ -1,7 +1,7 @@
 {font-family: 'Fira Sans', sans-serif;}
 p{font-size: 20px;}
 #name-highlight{ color: rgb(209, 103, 54);}
-h1{color: dimgray; font-size: 50px;}
+h1{color: dimgray; font-size: 100%;}
 #link-button{text-decoration: none;padding: 10px 20px; 
     background-image: linear-gradient(45deg, rgb(104, 60, 60), rgb(190, 190, 92));
     border-radius: 5px;
@@ -9,3 +9,8 @@ h1{color: dimgray; font-size: 50px;}
     font-weight: 500;}
     .half-width{ width: 40%; float: left; margin-left: 2%;padding: 2%;}
     .half-width img{width: 100%;}
+    #bottom{border: rgb(14, 14, 11) solid;}
+    section{ height: 550px}
+    #text-center{text-align: center;}
+    span{color: aqua;}
+    #color{color: rgb(212, 69, 2);}

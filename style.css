@@ -3,21 +3,18 @@ p{font-size: 20px;}
 #name-highlight{ color: rgb(209, 103, 54);}
 h1{color: dimgray; font-size: 100%;}
 #link-button{text-decoration: none;padding: 10px 20px; 
-    background-image: linear-gradient(45deg, rgb(104, 60, 60), rgb(190, 190, 92));
+background-image: linear-gradient(45deg, rgb(104, 60, 60), rgb(190, 190, 92));
     border-radius: 5px;
     color: rgb(236, 224, 214); 
     font-weight: 500;}
     .half-width{ width: 40%; float: left; margin-left: 2%;padding: 2%;}
     .half-width img{width: 100%;}
-    #bottom{border: rgb(14, 14, 11) solid;}
+    
     section{ height: 550px}
     #text-center{text-align: center;}
     span{color: rgba(233, 8, 8, 0.514);}
     #color{color: rgb(212, 69, 2);}
-    .top-text{height: 100px;text-align: end;
-}
-#section-three{border:1px solid; color: rgb(234, 233, 241); background-color: rgb(231, 245, 222);}
+    .top-text{height: 100px;text-align: end; margin-top: 40px; margin-right: 40px;}
+#section-three{background-color: rgb(239, 248, 232);}
 .one-third-width{color: dimgray; width: 26%; float: left; margin-left: 2%;padding: 2%; border: solid rgb(255, 255, 255); border-radius: 10px; background-color: white;}
 .one-third-width img{width: 100%;}
-.bottom-part{height: 500px;}
-.last-image{Group_33094_1.png}

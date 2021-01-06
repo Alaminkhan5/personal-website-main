@@ -12,8 +12,10 @@ h1{color: dimgray; font-size: 100%;}
     #bottom{border: rgb(14, 14, 11) solid;}
     section{ height: 550px}
     #text-center{text-align: center;}
-    span{color: aqua;}
+    span{color: rgba(233, 8, 8, 0.514);}
     #color{color: rgb(212, 69, 2);}
     .top-text{height: 100px;text-align: end;
 }
-#section-three{border:1px solid; color: rgb(80, 93, 94); background-color: rgb(226, 252, 208);}
+#section-three{border:1px solid; color: rgb(234, 233, 241); background-color: rgb(231, 245, 222);}
+.one-third-width{width: 25%; float: left; margin-left: 2%;padding: 2%; border: solid rgb(255, 255, 255); border-radius: 10px; background-color: rgb(231, 231, 231);}
+.one-third-width img{width: 100%;}
